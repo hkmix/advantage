@@ -1,9 +1,10 @@
 startup_file=qwerty.txt
-thumb_mode=MAC
 key_click_tone=OFF
 toggle_tone=OFF
 macro_disable=OFF
-macro_speed=9
+macro_speed=6
 status_play_speed=3
 power_user=true
+program_key_lock=OFF
 
+v_drive_open_on_startup=off
